@@ -71,7 +71,7 @@ i686-w64-mingw32-gcc-win32 -std=c99 windows.c -o rsh.exe -lws2_32
 i686-w64-mingw32-gcc-win32 -std=c99 windows.c -o rsh.exe -lws2_32 -D WAIT_FOR_CLIENT
 ```
 
-## Disclaimer for "Shellby":
+## Disclaimer for "c-reverse-shell":
 
 ### Summary: 
 Don't be an idiot and be responsible with usage. Pentesting without authorization is illegal.
@@ -83,6 +83,6 @@ Don't be an idiot and be responsible with usage. Pentesting without authorizatio
 4. No Liability: The creators, developers, and distributors of this software are not responsible for any harm or damage caused, directly or indirectly, by the misuse or use of this software.
 5. Updates and Monitoring: The developers reserve the right to update, modify, or discontinue the software at any time. Users are advised to always use the most recent version of the software. However, even with updates, the developers cannot guarantee that the software is completely secure or free from vulnerabilities.
 6. Third-Party Software/Links: This software may contain links to third-party sites or utilize third-party software/tools. The developers are not responsible for the content or privacy practices of those sites or software.
-7. Unauthorized Access: Using "Shellby" to access, probe, or connect to systems, networks, or data without explicit permission from appropriate parties is strictly discouraged, unethical, and illegal. Unauthorized access to systems, networks, or data breaches various local, national, and international laws, and can result in severe legal consequences. Always obtain the necessary permissions before accessing any systems or data. The developers of "Shellby" disavow any actions taken by individuals or entities that use this software for unauthorized activities.
+7. Unauthorized Access: Using "c-reverse-shell" to access, probe, or connect to systems, networks, or data without explicit permission from appropriate parties is strictly discouraged, unethical, and illegal. Unauthorized access to systems, networks, or data breaches various local, national, and international laws, and can result in severe legal consequences. Always obtain the necessary permissions before accessing any systems or data. The developers of "c-reverse-shell" disavow any actions taken by individuals or entities that use this software for unauthorized activities.
 
-By downloading, installing, or using "Shellby" you acknowledge that you have read, understood, and agreed to abide by this disclaimer. If you do not agree to these terms, do not use the software.
+By downloading, installing, or using "c-reverse-shell" you acknowledge that you have read, understood, and agreed to abide by this disclaimer. If you do not agree to these terms, do not use the software.
